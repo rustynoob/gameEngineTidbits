@@ -1,0 +1,15 @@
+34a2c7bfa2c344adbf9b824b9c5cbbec
+0
+VAStudios
+C:\Users\joelcook\Dropbox\development\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\
+129740385240000000
+C:\Users\joelcook\Dropbox\development\Xbox360Game3\Xbox360Game3\Xbox360Game3\GameThumbnail.png
+2012-01-26T04:14:59.0000000Z
+C:\Users\joelcook\Dropbox\development\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Xbox360Game3.exe
+2012-02-21T03:56:21.2828577Z
+C:\Users\joelcook\Dropbox\development\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\lerningsp1.xnb
+2012-02-18T11:30:17.5937381Z
+C:\Users\joelcook\Dropbox\development\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\particle.xnb
+2012-02-18T13:32:21.4887243Z
+C:\Users\joelcook\Dropbox\development\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\particle2.xnb
+2012-02-18T12:33:20.5027301Z

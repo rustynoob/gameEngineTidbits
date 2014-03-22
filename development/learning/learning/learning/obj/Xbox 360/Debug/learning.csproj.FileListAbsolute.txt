@@ -1,0 +1,14 @@
+c:\users\joel\documents\visual studio 2010\Projects\learning\learning\learning\bin\Xbox 360\Debug\learning.exe
+c:\users\joel\documents\visual studio 2010\Projects\learning\learning\learning\bin\Xbox 360\Debug\learning.pdb
+c:\users\joel\documents\visual studio 2010\Projects\learning\learning\learning\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+c:\users\joel\documents\visual studio 2010\Projects\learning\learning\learning\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\joel\documents\visual studio 2010\Projects\learning\learning\learning\obj\Xbox 360\Debug\learning.exe
+c:\users\joel\documents\visual studio 2010\Projects\learning\learning\learning\obj\Xbox 360\Debug\learning.pdb
+c:\users\joel\documents\visual studio 2010\Projects\learning\learning\learning\bin\Xbox 360\Debug\Content\lerningsp1.xnb
+C:\Users\Joel\Dropbox\development\learning\learning\learning\bin\Xbox 360\Debug\Content\lerningsp1.xnb
+C:\Users\Joel\Dropbox\development\learning\learning\learning\bin\Xbox 360\Debug\learning.exe
+C:\Users\Joel\Dropbox\development\learning\learning\learning\bin\Xbox 360\Debug\learning.pdb
+C:\Users\Joel\Dropbox\development\learning\learning\learning\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Users\Joel\Dropbox\development\learning\learning\learning\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Joel\Dropbox\development\learning\learning\learning\obj\Xbox 360\Debug\learning.exe
+C:\Users\Joel\Dropbox\development\learning\learning\learning\obj\Xbox 360\Debug\learning.pdb

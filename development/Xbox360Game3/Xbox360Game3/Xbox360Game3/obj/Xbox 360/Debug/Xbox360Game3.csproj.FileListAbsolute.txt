@@ -1,0 +1,23 @@
+c:\users\joel\documents\visual studio 2010\Projects\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Xbox360Game3.exe
+c:\users\joel\documents\visual studio 2010\Projects\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Xbox360Game3.pdb
+c:\users\joel\documents\visual studio 2010\Projects\Xbox360Game3\Xbox360Game3\Xbox360Game3\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+c:\users\joel\documents\visual studio 2010\Projects\Xbox360Game3\Xbox360Game3\Xbox360Game3\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\joel\documents\visual studio 2010\Projects\Xbox360Game3\Xbox360Game3\Xbox360Game3\obj\Xbox 360\Debug\Xbox360Game3.exe
+c:\users\joel\documents\visual studio 2010\Projects\Xbox360Game3\Xbox360Game3\Xbox360Game3\obj\Xbox 360\Debug\Xbox360Game3.pdb
+c:\users\joel\documents\visual studio 2010\Projects\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\lerningsp1.xnb
+C:\Users\Joel\Dropbox\development\Xbox360Game3\Xbox360Game3\Xbox360Game3\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Users\Joel\Dropbox\development\Xbox360Game3\Xbox360Game3\Xbox360Game3\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Joel\Dropbox\development\Xbox360Game3\Xbox360Game3\Xbox360Game3\obj\Xbox 360\Debug\Xbox360Game3.exe
+C:\Users\Joel\Dropbox\development\Xbox360Game3\Xbox360Game3\Xbox360Game3\obj\Xbox 360\Debug\Xbox360Game3.pdb
+C:\Users\Joel\Dropbox\development\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\lerningsp1.xnb
+C:\Users\Joel\Dropbox\development\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Xbox360Game3.exe
+C:\Users\Joel\Dropbox\development\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Xbox360Game3.pdb
+C:\Users\joelcook\Dropbox\development\Xbox360Game3\Xbox360Game3\Xbox360Game3\obj\Xbox 360\Debug\Xbox360Game3.csprojResolveAssemblyReference.cache
+C:\Users\joelcook\Dropbox\development\Xbox360Game3\Xbox360Game3\Xbox360Game3\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\joelcook\Dropbox\development\Xbox360Game3\Xbox360Game3\Xbox360Game3\obj\Xbox 360\Debug\Xbox360Game3.exe
+C:\Users\joelcook\Dropbox\development\Xbox360Game3\Xbox360Game3\Xbox360Game3\obj\Xbox 360\Debug\Xbox360Game3.pdb
+C:\Users\joelcook\Dropbox\development\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\lerningsp1.xnb
+C:\Users\joelcook\Dropbox\development\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\particle.xnb
+C:\Users\joelcook\Dropbox\development\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Xbox360Game3.exe
+C:\Users\joelcook\Dropbox\development\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Xbox360Game3.pdb
+C:\Users\joelcook\Dropbox\development\Xbox360Game3\Xbox360Game3\Xbox360Game3\bin\Xbox 360\Debug\Content\particle2.xnb

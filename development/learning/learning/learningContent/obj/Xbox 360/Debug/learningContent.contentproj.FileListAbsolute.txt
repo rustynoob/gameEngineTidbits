@@ -1,0 +1,2 @@
+c:\users\joel\documents\visual studio 2010\Projects\learning\learning\learningContent\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Users\Joel\Dropbox\development\learning\learning\learningContent\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
